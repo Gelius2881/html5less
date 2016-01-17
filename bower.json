@@ -1,0 +1,23 @@
+{
+  "name": "myHtml5",
+  "authors": [
+    "gelius2881 <gelius2881@gmail.com>"
+  ],
+  "description": "'Мой шаблон для вёрстки'",
+  "main": "dist/jquery.js",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.12.0",
+    "normalize-css": "normalize.css#~3.0.3",
+    "less": "less.js#~2.5.3"
+  }
+}
